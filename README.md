@@ -1,2 +1,2 @@
 # GPP-Rainfall-Coupling
-Related-codes-and-inputdatasets
+Reproducible code for GPP-Rainfall coupling
